@@ -24,7 +24,9 @@ I going to visit the countries like usa, japan, china and india.
 
 | **Name of the country** | **Reason for visiting** | **NO.of days staying** |
 | --- | :---: | ---: |
-| USA | It is famous snow | 10 |
-| japan | It is good for tourism | 30 |
-| india | It has so many tourism places | 40 |
+| USA | It is famous the Grand Canyon and Mount Rushmore. | 10 |
+| japan | It is good for tourism and onsen hot springs.  | 30 |
+| india | It has so many tourism places. | 40 |
+| Austrila | Australia is known for many things, marine reserves, Arolling wine country, and lush rainforests. | 50 |
+
 
