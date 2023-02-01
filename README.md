@@ -17,3 +17,14 @@ I like kho-kho because it provides physical health and fitness to body.***it als
 
 [going to my image](AboutMe.md)
 
+---
+
+# I will recommand countries to visit
+I going to visit the countries like usa, japan, china and india.
+
+| **Name of the country** | **Reason for visiting** | **NO.of days staying** |
+| --- | :---: | ---: |
+| USA | It is famous snow | 10 |
+| japan | It is good for tourism | 30 |
+| india | It has so many tourism places | 40 |
+
