@@ -35,8 +35,30 @@ I going to visit the countries like usa, japan, china and india.
 
 >    I refuse to join any club that would have me as a member.
      *Groucho mark* 
+
 >    No man has a good enough memory to be a successful liar. 
      *abraham Lincoln*
+
+# Code Fencing 
+
+> Questions tagged [html]
+
+Link: https://css-tricks.com/snippets/html/post-data-to-an-iframe/
+
+```<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+stackoverflow link: https://stackoverflow.com/questions/tagged/html
+
 
 
 
