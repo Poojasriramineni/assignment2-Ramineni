@@ -29,4 +29,14 @@ I going to visit the countries like usa, japan, china and india.
 | india | It has so many tourism places. | 40 |
 | Austrila | Australia is known for many things, marine reserves, Arolling wine country, and lush rainforests. | 50 |
 
+---
+
+# funny quotes
+I refuse to join any club that would have me as a member.
+No man has a good enough memory to be a successful liar.
+
+> I refuse to join any club that would have me as a member.(* Groucho Marx*)
+> No man has a good enough memory to be a successful liar. (*abraham   Lincoln*)
+
+
 
