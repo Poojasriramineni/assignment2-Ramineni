@@ -32,13 +32,11 @@ I going to visit the countries like usa, japan, china and india.
 ---
 
 # funny quotes
-* I refuse to join any club that would have me as a member.
-* No man has a good enough memory to be a successful liar.
 
 >    I refuse to join any club that would have me as a member.
-     (*Groucho mark*) 
+     *Groucho mark* 
 >    No man has a good enough memory to be a successful liar. 
-     (*abraham Lincoln*)
+     *abraham Lincoln*
 
 
 
