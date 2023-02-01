@@ -6,8 +6,12 @@ I like kho-kho because it provides physical health and fitness to body.***it als
 
 ---
 
-# india team
+# indian team
 1. vidya
 2. pooja
 3. firdose
+
+* american team
+* japan team
+* china team <br>
 
