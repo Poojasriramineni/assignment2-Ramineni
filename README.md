@@ -1,2 +1,7 @@
 # assignment2-Ramineni
-lab2
+# POOJA SRI RAMINENI
+## "My favourite sport is kho-kho"
+
+I like kho-kho because it provides physical health and fitness to body.***it also improves our team skills, communication and interaction*** - It's better way to meet new persons and make friends.
+
+
